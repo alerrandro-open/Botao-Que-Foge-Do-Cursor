@@ -39,7 +39,7 @@ function entrar(){
 sim.addEventListener("click", clicar)
 
 function clicar(){
-    resp.innerHTML ="Hahuahuahauhauha!!"
+    resp.innerHTML ="Isso aí dona Karina Hahuahuahauhauha!!"
     sim.style.transform="translate(0px)"
     nao.style.transform="translate(0px, 0px)"
 
